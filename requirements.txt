@@ -22,7 +22,7 @@ fuzzywuzzy==0.16.0
 idna==2.6
 imagesize==1.0.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 mccabe==0.6.1
 multidict==4.1.0
